@@ -16,12 +16,12 @@ body {
     margin-top: 10px;
     margin-right: 25px;
   }
-  .container {
+  /* .container {
     width: 100%;
     max-width: 960px;
     margin: 0 auto;
     clear: both;
-  }
+  } */
   
   h1,
   h2,
@@ -95,4 +95,10 @@ body {
     text-decoration: none;
     border-left: 1px solid #efefef;
   }
+
+.portfolio-image {
+  height: 100px;
+  width: 100px;
+
+}
 
